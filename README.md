@@ -38,8 +38,12 @@ I am a Developer passionate about developing
 
 <a href="https://twitter.com/TechSapien09">
     <img height="50" src="https://user-images.githubusercontent.com/64362437/187197865-87e0d289-518a-4412-a77e-50fb9d10519a.png"/>
+</a>
 
+<a href="https://medium.com/@techsapien09">
+    <img height="50" src="https://user-images.githubusercontent.com/124170721/216107378-294a3fdc-81b4-438d-9bab-30c291a91a7c.png"/>
 </div>
+
 
 
 ### Languages and Tools:
