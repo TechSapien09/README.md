@@ -1,12 +1,12 @@
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is me Maimoona Khilji</h1>
-<h3 align="center">Data Scientist | Data Analyst | Data Engineer | Developer</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Tech Sapien </h1>
+<h3 align="center">Developer | Data Scientist | Data Analyst | Data Engineer </h3>
 
 <!---
 MaimoonaKhilji/MaimoonaKhilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&theme=dark"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechSapien09&theme=dark"/> -->
 
 ### About me 🙋‍♀️
 
@@ -19,32 +19,27 @@ I am a Developer passionate about developing
 
 ### Language Statistics:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaimoonaKhilji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSapien09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
 
 
 ### Connect with me:
 <div align="center">
-<a href="https://www.linkedin.com/in/maimoona-khilji/">
+<a href="https://www.linkedin.com/in/TechSapien/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-<a href="maimoon.khilji@gmail.com">
+<a href="TechSapien09@gmail.com">
     <img height="50" src="https://user-images.githubusercontent.com/64362437/187196042-9412563a-ff01-4622-97ea-3463f77490de.png"/>
 </a>
-<a href="https://www.quora.com/profile/Maimoona-Khilji">
+<a href="https://www.quora.com/profile/TechSapien09">
     <img height="50" src="https://user-images.githubusercontent.com/64362437/187198130-cf790c34-935d-4ad8-a25b-c8b5777681be.png"/>
 </a>
 
-<a href="https://twitter.com/MaimoonaKhilji">
+<a href="https://twitter.com/TechSapien09">
     <img height="50" src="https://user-images.githubusercontent.com/64362437/187197865-87e0d289-518a-4412-a77e-50fb9d10519a.png"/>
-</a>
 
-
-<a href="https://www.fiverr.com/maimoonakhilji">
-    <img height="50" src="https://user-images.githubusercontent.com/64362437/187228968-5408ab2d-227d-4f24-b1c2-b80be66fedb7.png"/>
-</a>
-    </div>
+</div>
 
 
 ### Languages and Tools:
@@ -183,24 +178,13 @@ I am a Developer passionate about developing
 
 ### Github Streak:
 <p align="center">
-    <a href="https://github.com/MaimoonaKhilji/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaimoonaKhilji's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=maimoonakhilji&theme=dark&border_radius=5.1"/>
+    <a href="https://github.com/TechSapien09/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TechSapien09's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TechSapien09&theme=dark&border_radius=5.1"/>
     </a>
 </p>
 
 
 ### Github Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaimoonaKhilji&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TechSapien09&show_icons=true&theme=dark"/>
 </div>
-
-### Graph
-<br/>
-<br/>
-
-<a href="https://github.com/MaimoonaKhilji/github-readme-activity-graph"><img alt="Maimoona Khilji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaimoonaKhilji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-![](https://hit.yhype.me/github/profile?user_id=64362437)
